@@ -45,7 +45,7 @@ header{
 
     justify-content: center;
 
-    align-items: center;
+    align-items:flex-start;
 
     flex-wrap: wrap;
 
@@ -207,7 +207,7 @@ button:hover{
 
     background: #d6d45f;
 
-    padding: 45px;
+    padding: 50PX;
 
     border-radius: var(--raio);
 
